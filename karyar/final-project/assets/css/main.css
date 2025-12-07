@@ -47,6 +47,7 @@ body {
 
 li {
     transition: 0.5s;
+    list-style-position: inside;
 }
 
 li:hover {
