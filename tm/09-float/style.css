@@ -1,0 +1,22 @@
+        .box {
+            width: 200px;
+            height: 200px;
+            float: left;
+            margin-left: 220px;
+        }
+        
+        .box-red {
+            background-color: red;
+        }
+        
+        .box-blue {
+            background-color: blue;
+        }
+        
+        .box-orange {
+            background-color: orangered;
+        }
+        
+        .box-gray {
+            background-color: gray;
+        }

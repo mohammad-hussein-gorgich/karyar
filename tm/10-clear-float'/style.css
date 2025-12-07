@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+}
+
+.box1 {
+    background-color: blue;
+    float: left;
+}
+
+.box2 {
+    background-color: aqua;
+    height: 300px;
+    float: left;
+}
+
+.box3 {
+    background-color: green;
+    height: 250px;
+    clear: left;
+}

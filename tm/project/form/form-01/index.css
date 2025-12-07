@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+input,
+textarea {
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+#radio {
+    text-align: center;
+}
+
+#submit {
+    width: 150px;
+}
